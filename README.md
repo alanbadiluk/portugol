@@ -1,8 +1,8 @@
 esse exercício consiste em criar um sucessor para o numero informado.
 
 
-programa
-{
+
+
 	
 	funcao inicio()
 	{
@@ -19,5 +19,5 @@ programa
 
 		
 	}
-}
+
 
